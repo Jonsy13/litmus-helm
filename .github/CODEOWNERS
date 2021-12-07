@@ -16,7 +16,7 @@
 
 charts/litmus            @rajdas98 @ispeakc0de @jasstkn
 
-charts/litmus-1-x        @ksatchit @chandankumar4
+charts/litmus-core        @ksatchit @chandankumar4
 
 charts/kubernetes-chaos  @jasstkn @chandankumar4 @ksatchit
 
